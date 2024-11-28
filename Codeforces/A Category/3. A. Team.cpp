@@ -1,4 +1,4 @@
-// Online C++ compiler to run C++ program online
+// Link : https://codeforces.com/problemset/problem/231/A
 #include <iostream>
 using namespace std;
 int main() {
